@@ -1,0 +1,6 @@
+[package]
+name = "zk-kya-verifier"
+version = "0.1.0"
+edition = "2021"
+description = "Zero-knowledge proof circuits for verifying agent identity without revealing private credentials."
+license = "MIT"
